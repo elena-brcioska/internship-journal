@@ -1,0 +1,29 @@
+# Work Log Jousrnal
+
+**Intern:** Elena Brchioska<br/><br/>
+PROJECTS:<br/><br/>
+-**COSMAS** - Flagship application for stem cell and tissue management and orchestration. COSMAS is a pioneering product designed to streamline operations for medical institutions, such as stem cell transplantation hospitals, by providing tools for donor management, appointment scheduling, metrics tracking, sample management, procedure and product logging, and storage organization.
+<br/>
+Technologies used on this project were React, Typescript, React Query (Tanstack), Zustand, Java backend<br/><br/>
+-**MAK-CONNECT** -powerful application developed by MAK-SYSTEM to streamline user management across all platforms used by hospitals. This centralized solution enables administrators to efficiently manage user accounts, roles, and permissions, ensuring seamless integration and coordination across MAK-SYSTEM's diverse suite of applications.<br/>
+Technologies used on this project were React, Typescript, React Query (Tanstack), Zustand, Java backend<br/><br/>
+
+| No.   | Date                    | Description                                                                                                                                                                                                                             |
+|-------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Week 1 | 01/10/2024 - 04/10/2024 | Onboarding and getting familiar with the company, Agile work system, Jira, and Scrum methodology.                                                                                                                                      |
+| Week 2 | 07/10/2024 - 11/10/2024 | Learning the fundamental technologies required for the project, such as React with TypeScript, React Query, Axios, Zustand, and Jest.                                                                                                  |
+| Week 3 | 14/10/2024 - 18/10/2024 | Mastering the technologies through practical application on an independent project – Post Management App with CRUD functionalities implemented using React, TypeScript, and React Query. Writing tests using Jest Testing Library.         |
+| Week 4 | 21/10/2024 - 25/10/2024 | Session to get familiar with COSMAS, an application for medical transfusion institutions and hospitals, the structure of the project, and its business logic.                                                                          |
+| Week 5 | 28/10/2024 - 01/11/2024 | Participating in the current sprint and being assigned the first Jira ticket. Resolving bugs in COSMAS and understanding the lifecycle of a ticket, its circulation within the team, creating Pull Requests following conventions, conducting tests and reviews, updating Jira documentation, and closing the ticket. |
+| Week 6 | 04/11/2024 - 08/11/2024 | Working on more complex bugs that required a deeper understanding of the project and its logic, as well as navigating through its codebase. Direct communication with testers and bug reporters to clarify requirements and ensure I understood the scenarios, while referring to project documentation to independently solve problems. |
+| Week 7 | 11/11/2024 - 15/11/2024 | Improved ability to analyze test cases and documentation, as well as faster navigation through the complex codebase, allowing me to fix bugs more quickly. Communicated with backend support and testers to resolve issues. Gained a better understanding of the project and its needs, enabling me to independently and efficiently solve problems. |
+| Week 8 | 18/11/2024 - 22/11/2024 | Session to get familiar with MAK-CONNECT, a new project under development. Close collaboration with a team of software architects and React developers. Setting up and configuring the Docker environment and necessary databases for the local backend. Guidelines for starting, rebuilding, and debugging the backend effectively. |
+| Week 9 | 25/11/2024 - 29/11/2024 | Leveraging knowledge from previous experiences to implement functionalities for MAK-CONNECT. Independently creating an entire screen, including its domain logic and functionality. This task deepened my understanding of the project and gave me responsibility for a significant feature. |
+| Week 10 | 02/12/2024 - 07/12/2024 | Finalizing and implementing the screen into the main project. Consulting with software architects to define changes, integrations, and implementation strategies. Making changes to the existing screen based on newly defined criteria. |
+| Week 11 | 09/12/2024 - 13/12/2024 | Working on a new feature and implementing it into the project. Collaborated closely with the rest of the team to define the requirements. Followed both existing and newly defined criteria to implement the requested functionalities. |
+| Week 12 | 16/12/2024 - 20/12/2024 | Finalizing and implementing new functionalities for MAK-CONNECT. Continued collaboration to improve the implementation of these functionalities and ensure they meet the defined criteria. |
+| Week 13 | 23/12/2024 - 27/12/2024 | Completing existing tickets and finalizing remaining work for the sprint. Preparing the work for delegation to the rest of the team.                                                                                                  |
+| Week 14 | 30/12/2024 - 32/12/2024 | Discussions with a mentor and receiving feedback on my work and progress over the past months. One-on-one meetings and discussions about my achievements, acquired skills, and opportunities for further development.                   |
+
+**Signature of the responsible person**: Elena Brchioska <br/>
+Frontend Team Lead:  Mario Stojanovski
